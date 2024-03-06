@@ -1,5 +1,8 @@
 body {
-  background-colorh1 {
+  background-color:black;
+}
+  
+  h1 {
   color: white;
   text-align: center;
 }
@@ -7,6 +10,7 @@ body {
 p {
   font-family: verdana;
   font-size: 20px;
-}: lightblue;
-  
+  color: lightblue;
 }
+  
+
