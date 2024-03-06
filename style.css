@@ -1,4 +1,12 @@
 body {
-  background-color:blueviolet;
-    color:black;
+  background-colorh1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}: lightblue;
+  
 }
