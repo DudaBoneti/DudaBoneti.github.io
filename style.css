@@ -12,5 +12,10 @@ p {
   font-size: 20px;
   color:black;
 }
+
+img {
+  width: "100 px";
+  height: "100 px";
+}
   
 
