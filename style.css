@@ -13,9 +13,13 @@ p {
   color:black;
 }
 
+row {
+  padding: "10px";
+  margin: "10px";
+}
 img {
-  width: "100 px";
-  height: "100 px";
+  width: "100px";
+  height: "100px";
 }
   
 
